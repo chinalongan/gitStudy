@@ -1,0 +1,7 @@
+{
+  "name": "gitStudy",
+  "version": "1.0.0",
+  "description": "study git operation",
+  "main": "index.js",
+  "license": "MIT"
+}
